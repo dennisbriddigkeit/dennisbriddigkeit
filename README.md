@@ -1,6 +1,6 @@
 # Hi, I'm Dennis 👋
 
-### Product Manager · Creative Builder · Gaming Nerd
+### Product Manager at awork.com · Creative Builder · Gaming Nerd
 
 I love building, shaping, and refining—whether it’s products, tools, or events. I'm a product manager with a thing for clean UX, clear structure, and creative solutions. Right now, I'm working on my portfolio site and building web tools for [total verpLANt](https://total-verplant.de), where we organize gaming events for kids, teens, and grown-up nerds like me.
 
