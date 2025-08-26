@@ -1,48 +1,27 @@
 # Hi, I'm Dennis 👋
 
-### 🚀 Product Manager | Emerging Technologist | Gaming Enthusiast
+### Product Manager · Creative Builder · Gaming Nerd
 
-I'm Dennis, a passionate product manager making my way deeper into the tech space. My journey blends creativity, user-centered design, and a love for innovative technology. Currently, I’m working on private projects like my portfolio website, and I dedicate my skills to *total verpLANt*, an organization focused on empowering kids and young adults through collaborative gaming events.
+I love building, shaping, and refining—whether it’s products, tools, or events. I'm a product manager with a thing for clean UX, clear structure, and creative solutions. Right now, I'm working on my portfolio site and building web tools for [total verpLANt](https://total-verplant.de), where we organize gaming events for kids, teens, and grown-up nerds like me.
 
 ---
 
 ## 👾 About Me
 
-- **Role:** Product Manager
-- **Focus:** Web-based projects, portfolio site, gaming event web-tools
-- **Organization:** [total verpLANt](https://total-verplant.de) – Gaming together matters!
-- **Interests:**  
-  🎮 Gaming (always!)  
-  🤖 Experimenting with AI  
-  💻 Leveling up my coding skills—especially now!
+- **What I do:** Web projects, LAN tools, portfolio stuff  
+- **What I enjoy:**  
+  🎮 MTG Commander, games & LAN culture  
+  🧠 Things that are well thought out — digital or analog
+  💻 Learning to code—slowly but surely
+  🏡 Family
 
 ---
 
 ## 🌟 What Drives Me
 
-I believe in the power of play, creativity, and technology to connect people. Whether it’s designing intuitive experiences or building new digital experiments, I’m always learning, iterating, and gaming.
+I’m into creativity, meaning, and process. I love products where you can feel the care behind them. I enjoy working where ideas, execution, and detail come together—and bringing things across the finish line.
+
 
 ---
 
-## 🔗 Links
-
-- [LinkedIn](https://www.linkedin.com/in/dbriddigkeit/)
-
----
-
-## 🛠️ Currently Exploring
-
-- **AI & Machine Learning:** Experimenting, prototyping, and learning new possibilities.
-- **Coding:** Building up my original dev skills from the ground up.
-- **Web Projects:** Creating engaging digital experiences.
-
----
-
-## ✨ Fun Fact
-
-When I’m not designing or coding, you’ll probably find me gaming or organizing events that bring people together—because gaming together is simply better.
-
----
-
-Thanks for stopping by!  
-Feel free to say hi. 🚀
+Say hi anytime 🚀
