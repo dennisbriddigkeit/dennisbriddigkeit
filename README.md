@@ -11,8 +11,8 @@ I love building, shaping, and refining—whether it’s products, tools, or even
 - **What I do:** Web projects, LAN tools, portfolio stuff  
 - **What I enjoy:**  
   🎮 MTG Commander, games & LAN culture  
-  🧠 Things that are well thought out — digital or analog
-  💻 Learning to code—slowly but surely
+  🧠 Things that are well thought out — digital or analog  
+  💻 Learning to code—slowly but surely  
   🏡 Family
 
 ---
